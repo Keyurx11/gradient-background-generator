@@ -22,7 +22,7 @@ h1 {
 }
 
 
-#randomizerBtn{
+#randomizerBtn {
     padding-top: 5px;
     padding-bottom: 5px;
     background-color: transparent;
@@ -34,3 +34,12 @@ h1 {
     box-shadow: 1px 1px 3px;
 }
 
+
+a {
+    color: black;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: blue;
+}
